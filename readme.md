@@ -12,11 +12,11 @@ Um projeto básico em **HTML, CSS e JavaScript** para treinar lógica de program
 
 ## 📂 Estrutura de Pastas
 
-├── index.html # Estrutura principal
+├── index.html
 ├── css/
-│ └── style.css # Estilos (layout e responsividade)
+│ └── style.css 
 └── js/
-└── script.js # Lógica em JavaScript
+└── script.js 
 
 
 ## 🖼️ Preview
