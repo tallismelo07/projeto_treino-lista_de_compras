@@ -2,9 +2,6 @@
 
 Um projeto básico em **HTML, CSS e JavaScript** para treinar lógica de programação e manipulação do DOM.
 
-![Lista de Compras](projeto-lista-compra.png)
-
-
 ## 🚀 Funcionalidades
 
 - Adicionar itens à lista digitando no campo de texto.  
@@ -26,7 +23,7 @@ Um projeto básico em **HTML, CSS e JavaScript** para treinar lógica de program
 
 Exemplo de como a aplicação fica rodando:
 
-![Preview da Lista de Compras](./cb4d8ecd-c7a3-4245-b3e2-e7b1637e26b3.png)
+![Preview da Lista de Compras](projeto-lista-compra.png)
 
 ## 🛠️ Como usar
 
